@@ -44,6 +44,7 @@ dependencies:
     http: ^1.4.0
     image_picker: ^1.1.2
     table_calendar: ^3.0.9
+    
 ## 📸 Screenshots
 
 <div align="center">
