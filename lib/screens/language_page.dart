@@ -15,7 +15,6 @@ class LanguagePage extends StatelessWidget {
     final isTablet = ResponsiveHelper.isTablet(context);
     final isDesktop = ResponsiveHelper.isDesktop(context);
 
-    // تحديد عرض الـ Container بناءً على حجم الشاشة
     final containerWidth = isDesktop
         ? 450.0
         : isTablet
@@ -41,7 +40,7 @@ class LanguagePage extends StatelessWidget {
           width: containerWidth,
           padding: const EdgeInsets.symmetric(horizontal: 14, vertical: 40),
           decoration: BoxDecoration(
-            color: Colors.white,
+            color: Theme.of(context).cardColor,
             borderRadius: BorderRadius.circular(16),
             boxShadow: [
               BoxShadow(

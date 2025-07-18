@@ -43,7 +43,7 @@ class _RegisterPageState extends State<RegisterPage> {
       body: Container(
         width: double.infinity,
         height: double.infinity,
-        decoration: const BoxDecoration(color: Color(0xFFB9D4F8)),
+        decoration: BoxDecoration(color: Theme.of(context).scaffoldBackgroundColor),
         child: Center(
           child: SingleChildScrollView(
             padding: const EdgeInsets.symmetric(horizontal: 20, vertical: 30),
@@ -71,7 +71,7 @@ class _RegisterPageState extends State<RegisterPage> {
                 Container(
                   padding: const EdgeInsets.all(20),
                   decoration: BoxDecoration(
-                    color: Colors.white,
+                    color: Theme.of(context).cardColor,
                     borderRadius: BorderRadius.circular(20),
                     boxShadow: const [
                       BoxShadow(
@@ -231,7 +231,7 @@ class _RegisterPageState extends State<RegisterPage> {
                               loc.translate('Already have an account?'),
                               style: TextStyle(
                                 fontSize: 14,
-                                color: Colors.black54,
+                                // color: Theme.of(context).cardColor,
                               ),
                             ),
                             TextButton(

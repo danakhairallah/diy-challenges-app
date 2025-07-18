@@ -26,10 +26,12 @@ class _LoginPageState extends State<LoginPage> {
     }
   }
 
-  void initstate() {
+  @override
+  void initState() {
     super.initState();
     loadRememberMe();
   }
+
 
   void loadRememberMe() async {
     String? value = await secureStorage.read(key: 'remember_me');
@@ -53,14 +55,14 @@ class _LoginPageState extends State<LoginPage> {
         leading: IconButton(
           icon: const Icon(Icons.arrow_back),
           onPressed: () {
-            Navigator.pop(context); // يرجع للـ Home
+            Navigator.pop(context);
           },
         ),
       ),
       body: Container(
         width: double.infinity,
         height: double.infinity,
-        decoration: const BoxDecoration(color: Color(0xFFB9D4F8)),
+        decoration: BoxDecoration(color: Theme.of(context).scaffoldBackgroundColor),
         child: Center(
           child: SingleChildScrollView(
             padding: const EdgeInsets.symmetric(horizontal: 20, vertical: 30),
@@ -88,7 +90,7 @@ class _LoginPageState extends State<LoginPage> {
                 Container(
                   padding: const EdgeInsets.all(20),
                   decoration: BoxDecoration(
-                    color: Colors.white,
+                    color: Theme.of(context).cardColor,
                     borderRadius: BorderRadius.circular(20),
                     boxShadow: const [
                       BoxShadow(

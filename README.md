@@ -2,7 +2,7 @@
 
 A mobile application built with Flutter as part of a collaborative team project.  
 The app provides a platform for showcasing and completing DIY (Do It Yourself) challenges,
-with full support for bilingual content (Arabic & English),
+with full support for bilingual content (Arabic & English) and dark them ,
 responsive design, and a clean architecture using MVC and Provider.
 
 ---
@@ -11,7 +11,7 @@ responsive design, and a clean architecture using MVC and Provider.
 
 - Hourieh Jebawi
 - Dana Khairallah
-- Bara'ah Ajamyia
+- Bara'ah Abu Ajamyia
 
 ---
 
@@ -22,11 +22,11 @@ responsive design, and a clean architecture using MVC and Provider.
 -  Register Page
 -  Home Page
 -  Challenge Details Page
-- Upload Result Page
+-  Upload Result Page
 -  My Challenges Page
 -  Rating Page
-- Top Rated Page
-- Upload Result Page
+-  Top Rated Page
+-  Upload Result Page
 
 
 
@@ -38,10 +38,9 @@ responsive design, and a clean architecture using MVC and Provider.
 dependencies:
   flutter:
     sdk: flutter
-   cupertino_icons: ^1.0.8
-  provider: ^6.1.5
-  flutter_localization: ^0.3.2
-  http: ^1.4.0
-  image_picker: ^1.1.2
-  flutter_secure_storage: ^9.2.4
-  table_calendar: ^3.0.9
+    cupertino_icons: ^1.0.8
+    provider: ^6.1.5
+    flutter_localization: ^0.3.2
+    http: ^1.4.0
+    image_picker: ^1.1.2
+    table_calendar: ^3.0.9
