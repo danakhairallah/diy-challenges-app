@@ -55,4 +55,5 @@ dependencies:
   <img src="screens/Screenshot_20250624_233128.png" width="200" />
   <img src="screens/Screenshot_20250624_233157.png" width="200" />
   <img src="screens/Screenshot_20250624_233420.png" width="200" />
+  <img src="screens/Screenshot_20250624_233255.png" width="200" />
 </div>
