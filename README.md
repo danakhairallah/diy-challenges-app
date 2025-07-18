@@ -34,7 +34,7 @@ responsive design, and a clean architecture using MVC and Provider.
 
 ##  Packages Used
 
-```yaml
+
 dependencies:
   flutter:
     sdk: flutter
@@ -45,7 +45,7 @@ dependencies:
     image_picker: ^1.1.2
     table_calendar: ^3.0.9
     
-## 📸 Screenshots
+##  Screenshots
 
 <div align="center">
   <img src="screens/Screenshot_20250624_232636.png" width="200" />
