@@ -44,15 +44,14 @@ dependencies:
     http: ^1.4.0
     image_picker: ^1.1.2
     table_calendar: ^3.0.9
-
 ## 📸 Screenshots
 
 <div align="center">
-  <img src="Screenshot_20250624_232636.png" width="200" />
-  <img src="Screenshot_20250624_232658.png" width="200" />
-  <img src="Screenshot_20250624_232826.png" width="200" />
-  <img src="Screenshot_20250624_233039.png" width="200" />
-  <img src="Screenshot_20250624_233128.png" width="200" />
-  <img src="Screenshot_20250624_233157.png" width="200" />
-  <img src="Screenshot_20250624_233420.png" width="200" />
+  <img src="screens/Screenshot_20250624_232636.png" width="200" />
+  <img src="screens/Screenshot_20250624_232658.png" width="200" />
+  <img src="screens/Screenshot_20250624_232826.png" width="200" />
+  <img src="screens/Screenshot_20250624_233039.png" width="200" />
+  <img src="screens/Screenshot_20250624_233128.png" width="200" />
+  <img src="screens/Screenshot_20250624_233157.png" width="200" />
+  <img src="screens/Screenshot_20250624_233420.png" width="200" />
 </div>
