@@ -7,14 +7,6 @@ responsive design, and a clean architecture using MVC and Provider.
 
 ---
 
-##  Flutter Team Members
-
-- Hourieh Jebawi
-- Dana Khairallah
-- Bara'ah Abu Ajamyia
-
----
-
 ##  Implemented Screens
 
 -  Splash Screen
