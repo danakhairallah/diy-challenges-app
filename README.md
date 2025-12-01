@@ -37,15 +37,44 @@ dependencies:
     image_picker: ^1.1.2
     table_calendar: ^3.0.9
     
-##  Screenshots
 
-<div align="center">
-  <img src="screens/Screenshot_20250624_232636.png" width="200" />
-  <img src="screens/Screenshot_20250624_232658.png" width="200" />
-  <img src="screens/Screenshot_20250624_232826.png" width="200" />
-  <img src="screens/Screenshot_20250624_233039.png" width="200" />
-  <img src="screens/Screenshot_20250624_233128.png" width="200" />
-  <img src="screens/Screenshot_20250624_233157.png" width="200" />
-  <img src="screens/Screenshot_20250624_233420.png" width="200" />
-  <img src="screens/Screenshot_20250624_233255.png" width="200" />
-</div>
+## 📸 Screenshots
+
+### Screenshot 1
+
+![s1](screens/Screenshot_20250624_232636.png)
+
+### Screenshot 2
+
+![s2](screens/Screenshot_20250624_232658.png)
+
+### Screenshot 3
+
+![s3](screens/Screenshot_20250624_232826.png)
+
+### Screenshot 4
+
+![s4](screens/Screenshot_20250624_233039.png)
+
+### Screenshot 5
+
+![s5](screens/Screenshot_20250624_233128.png)
+
+### Screenshot 6
+
+![s6](screens/Screenshot_20250624_233157.png)
+
+### Screenshot 7
+
+![s7](screens/Screenshot_20250624_233255.png)
+
+### Screenshot 8
+
+![s8](screens/Screenshot_20250624_233420.png)
+
+
+![s14](screenshots/Screenshot_20251130_175725.png)
+
+### Screenshot 15
+
+![s15](screenshots/Screenshot_20251130_175741.png)
