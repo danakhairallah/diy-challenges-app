@@ -73,8 +73,3 @@ dependencies:
 ![s8](screens/Screenshot_20250624_233420.png)
 
 
-![s14](screenshots/Screenshot_20251130_175725.png)
-
-### Screenshot 15
-
-![s15](screenshots/Screenshot_20251130_175741.png)
